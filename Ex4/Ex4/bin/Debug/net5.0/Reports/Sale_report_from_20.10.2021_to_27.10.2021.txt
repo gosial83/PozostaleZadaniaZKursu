@@ -1,0 +1,8 @@
+Data sprzedaży od 20.10.2021 do 27.10.2021 
+Sprzedane produkty to:
+Produkt Browar, cena 5 - sprzedanych 100 
+Produkt Whisky, cena 100 - sprzedanych 10 
+Produkt Rum, cena 30 - sprzedanych 7 
+Produkt Wódka, cena 23 - sprzedanych 203 
+Produkt Brandy, cena 43 - sprzedanych 16 
+Produkt Piwo bezalkoholowe, cena 2 - sprzedanych 0 
